@@ -89,48 +89,6 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Sequelize
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://redux.js.org/img/redux.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Reduxjs ToolKit
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://balticanebula.com/content/images/2023/06/plus-tailwind.jpg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn3d.iconscout.com/3d/free/preview/free-flutter-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-social-media-pack-logos-4642761@0.png" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Flutter
-    </td>
   </tr>
 </table>
 
