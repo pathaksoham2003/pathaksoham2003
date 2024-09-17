@@ -72,6 +72,12 @@ You can click the Preview link to take a look at your changes.
       <br>Django REST Framework
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>React js
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://downloads.marketplace.jetbrains.com/files/6098/602702/icon/pluginIcon.png" width="48" height="48" alt="Python" />
       </a>
@@ -103,7 +109,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -112,12 +118,6 @@ You can click the Preview link to take a look at your changes.
         <img src="https://redux.js.org/img/redux.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Reduxjs ToolKit
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>React js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -136,17 +136,17 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Mobile Development</h2>
 
-> Tools, languages, and other things that I like to work with.
+> What I use to build the mobile apps!
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>React Native
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -168,39 +168,15 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://redux.js.org/img/redux.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Reduxjs ToolKit
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>React js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
