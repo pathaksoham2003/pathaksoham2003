@@ -83,6 +83,12 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>NodeJS
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/ExpressJS.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>ExpressJS
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://sequelize.org/img/logo.svg" width="48" height="48" alt="Python" />
