@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://downloads.marketplace.jetbrains.com/files/6098/602702/icon/pluginIcon.png" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="48" height="48" alt="Python" />
       </a>
       <br>NodeJS
     </td>
@@ -88,6 +88,12 @@ You can click the Preview link to take a look at your changes.
         <img src="https://sequelize.org/img/logo.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Sequelize
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/NextJS.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>NextJS
     </td>
   </tr>
 </table>
