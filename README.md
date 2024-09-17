@@ -210,7 +210,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
