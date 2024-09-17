@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://downloads.marketplace.jetbrains.com/files/20686/602672/icon/pluginIcon.png" width="48" height="48" alt="Jsonnet" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Prisma
     </td>
