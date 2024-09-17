@@ -55,9 +55,9 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://redux.js.org/img/redux.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>Debian
+      <br>Reduxjs ToolKit
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
