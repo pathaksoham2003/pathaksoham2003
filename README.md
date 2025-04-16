@@ -37,8 +37,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/pathaksoham2003/MajorProjectClient" target="_blank"> Somazon </a>
-<a href="https://github.com/pathaksoham2003/SketchSpace" target="_blank"> Somazon </a>
+<a href="https://github.com/pathaksoham2003/MajorProjectClient" target="_blank"> Somazon (Ecommerce Website) </a>
+<br>
+<a href="https://github.com/pathaksoham2003/SketchSpace" target="_blank"> Sketch Space (Collaborative Whiteboard App) </a>
 <!---
 pathaksoham2003/pathaksoham2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
